@@ -53,3 +53,9 @@ Esse [repositório](https://github.com/LeanDevLima/Squad02_M3) é dedicado às a
 10. **Mentalidade de Qualidade:** Buscar constantemente a excelência na entrega de software de alta qualidade.
 
 *Lembrando que diferentes empresas e contextos podem valorizar diferentes conjuntos de características, mas essas listas oferecem uma ideia geral das habilidades e conhecimentos necessários para profissionais de QA.*
+
+## Integrantes da Squad:
+
+| Beatriz Souza  | Bruno Soares  | [Leanderson Lima](https://www.linkedin.com/in/leanderson-dias-de-lima/) | [Rebeca Borges](https://www.linkedin.com/in/rebecaborgess/) | Sara Cruz | 
+
+
