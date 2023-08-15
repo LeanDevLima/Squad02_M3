@@ -47,7 +47,7 @@ A seguir, apresento um resumo das discussões em grupo, complementado por minhas
 
 7. <u>Conhecimento de Metodologias Ágeis:</u> Muitas equipes de desenvolvimento adotam metodologias ágeis. O entendimento dessas práticas é útil para QAs.
 
-8. <u>Documentação Detalhada:</u> Habilidade em registrar testes, resultados e problemas de forma clara.
+8. <u>Acompanhamento de Tendências:</u> Manter-se atualizado com as últimas tendências em testes e tecnologia.
 
 9. <u>Gestão de Tempo:</u> Eficiência na organização de tarefas e priorização de testes.
 
