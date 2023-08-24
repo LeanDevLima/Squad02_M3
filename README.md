@@ -8,7 +8,7 @@ Clique nas "►" abaixo para visualizar os conteúdos trabalhados nesse módulo.
 <summary>Profissa de Qualidade: 🌟</summary>
 
 <details>
-<summary>🚀 Descrição da 1ª Atividade: 🌟</summary>
+<summary>🚀 Descrição da 10ª Atividade: 🌟</summary>
 <br>
 
 🔍 Responda a pergunta: O que vocês acham que um aplicativo, site ou software precisa ter para ser um sucesso? Listem, no mínimo, 4 características.
@@ -186,10 +186,10 @@ Cada tipo de teste desempenha um papel importante na identificação de diferent
  - Para essa atividade cada integrante da Squad escolheu um app que já possuia mais intimidade. No meu caso eu ecolhi o Cambly que adquiri recentemente com o propósito de melhorar minha conversação no idioma Inglês. Os outros campos foram preenchidos pelos meus colegas da squad.
 
 
-<img src="Cambly.png" alt="Cambly" width="350" height="100">
+<img src="Atividades/Cambly.png" alt="Cambly" width="350" height="100">
 
 
-![testeIntuitivo](qa-a2m3-teste-intuitivo.jpg)
+![testeIntuitivo](Atividades/qa-a2m3-teste-intuitivo.jpg)
 
 
 </details>
@@ -468,6 +468,70 @@ Em resumo, o plano de testes desempenha um papel vital na garantia da qualidade,
 
 </details>
 
+</details>
+
+<details>
+<summary> Deixa que eu testo (Parte 1): 🌟</summary>
+<br>
+
+<details>
+<summary>🚀 Descrição da 10ª Atividade: 🌟</summary>
+<br>
+
+🔍Acesse o jogo ZOMBIE BUG HUNTER, no [link do QALAB](https://jogajunto.itch.io/zombiebughunter) 
+Exercite a curiosidade e explore o jogo, buscando elementos que podem ser melhorados. 
+Relate os bugs, listando-os.
+
+Zombie Bug Hunter - Jogar com bugs não rola, né? Acesse o [link](https://jogajunto.itch.io/zombiebughunter) e ajude a melhorar o jogo.
+
+| ID | Título | Passo-a-passo | Objetivo | Versão | Plataforma | Navegador | Criticidade | Status | Evidência |
+|----|--------|---------------|----------|--------|------------|-----------|-------------|--------|-----------|
+| 1  | Início do jogo  | Se o usuário não se locomover assim que inicia o jogo, aparece a tela de  MISSION FAILIED  | Aumentar o timeout | v1.0   | Windows    | Chrome    | Blocker        | Aberto | [evidencia1](Atividades/evidencia_1.jpg)|
+| 2  |Durante o jogo | Quando o personagem vai apara extremidade do mapa do jogo,é possivel atravessar objetos do cenários | Melhorar a jogabilidade | v1.0   | Windows      | Firefox   | Grave  | Aberto  | [evidencia2](Atividades/evidencia_2.jpg)| |
+| 3  | Perseguição do zumbi | A perseguição do oponente proposto pelo o jogo, não é executada de forma correta, pois o mesmo não consegue perseguir o Personagem | Melhorar a jogabilidade | v1.0   | Windows  | Edge      | Grave       | Aberto |  |
+| 4  | Cenário | Item no lugar do cenário | Melhorar a jogabilidade | v1.0   | Windows    | Chrome    | Grave        | Aberto | [evidencia4](Atividades/evidencia_4.jpg)| |
+| 5  | Função principal |  O personagem não consegue matar os zumbis  | Melhorar a jogabilidade | v1.0   | Windows        | Brave    | Grave       | Aberto  |  |
+| 6  | Zumbi não persegue | Ao se colomover  para atrás de algum objeto no cenário, aguardar os zumbis chegarem, os mesmos não dão a volta para continuar a perseguição | Melhorar a jogabilidade | v1.0   | Windows    | Edge      | Baixa       |  Aberto | [evidencia6](Atividades/evidencia_6.jpg)| |
+| 7  | Atravessar cenário | Durante a perseguição dos zumbis o personagem principal consegue atravessar alguns itens do cenário. | Melhorar a jogabilidade | v1.0   | Windows      | Chrome    | Alta        | Aberto | [evidencia7](Atividades/evidencia_7.jpg)| |
+
+</details>
+
+</details>
+
+<details>
+<summary> Deixa que eu testo (Parte 2): 🌟</summary>
+<br>
+
+<details>
+<summary>🚀 Descrição da 11ª Atividade: 🌟</summary>
+<br>
+
+🔍Escolha três sites da internet, usando o computador. Após entrar em cada site avalie: 
+
+- É possível navegar sem usar o mouse, apenas usando as teclas TAB e ENTER do teclado?
+- Quando você usa a tecla TAB, as seleções de elementos ocorrem de forma sequencial ou aleatória?
+- Descreva o que encontrou, no documento disponível para download.
+
+![](Atividades\acessibilidade_pt1.jpg)
+![](Atividades\acessibilidade_pt1_1.jpg)
+![](Atividades\acessibilidade_pt1_2.jpg)
+![](Atividades\acessibilidade_pt1_3.jpg)
+
+</details>
+
+<details>
+<summary>🚀 Descrição da 12ª Atividade: 🌟</summary>
+<br>
+
+🔍Escolha um aplicativo já instalado no celular ou qualquer site da internet.  
+
+- Ative, nos ajustes do seu smartphone, a função leitura de tela, que no iOS é chamada de VOICEOVER e no Android de TALKBACK.
+- Abra o aplicativo escolhido, confira se a leitura de tela acontece de forma lógica e se todos os elementos presentes na tela são lidos. 
+
+![](Atividades\acessibilidade_pt2.jpg)
+![](Atividades\acessibilidade_pt2_1.jpg)
+
+</details>
 
 ## Integrantes da Squad:
 
