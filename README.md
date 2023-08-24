@@ -8,7 +8,7 @@ Clique nas "►" abaixo para visualizar os conteúdos trabalhados nesse módulo.
 <summary>Profissa de Qualidade: 🌟</summary>
 
 <details>
-<summary>🚀 Descrição da 10ª Atividade: 🌟</summary>
+<summary>🚀 Descrição da 1ª Atividade: 🌟</summary>
 <br>
 
 🔍 Responda a pergunta: O que vocês acham que um aplicativo, site ou software precisa ter para ser um sucesso? Listem, no mínimo, 4 características.
