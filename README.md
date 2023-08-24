@@ -512,10 +512,11 @@ Zombie Bug Hunter - Jogar com bugs não rola, né? Acesse o [link](https://jogaj
 - Quando você usa a tecla TAB, as seleções de elementos ocorrem de forma sequencial ou aleatória?
 - Descreva o que encontrou, no documento disponível para download.
 
-<img src="(Atividades\acessibilidade_pt1.jpg">
-<img src="(Atividades\acessibilidade_pt1_1.jpg">
-<img src="(Atividades\acessibilidade_pt1_2.jpg">
-<img src="(Atividades\acessibilidade_pt1_3.jpg">
+
+![Atividades\acessibilidade_pt1.jpg](https://github.com/LeanDevLima/Squad02_M3/blob/main/Atividades/acessibilidade_pt1.jpg)
+![Atividades\acessibilidade_pt1_1.jpg](https://github.com/LeanDevLima/Squad02_M3/blob/main/Atividades/acessibilidade_pt1_1.jpg)
+![Atividades\acessibilidade_pt1_2.jpg](https://github.com/LeanDevLima/Squad02_M3/blob/main/Atividades/acessibilidade_pt1_2.jpg)
+![Atividades\acessibilidade_pt1_3.jpg](https://github.com/LeanDevLima/Squad02_M3/blob/main/Atividades/acessibilidade_pt1_3.jpg)
 
 </details>
 
@@ -528,10 +529,8 @@ Zombie Bug Hunter - Jogar com bugs não rola, né? Acesse o [link](https://jogaj
 - Ative, nos ajustes do seu smartphone, a função leitura de tela, que no iOS é chamada de VOICEOVER e no Android de TALKBACK.
 - Abra o aplicativo escolhido, confira se a leitura de tela acontece de forma lógica e se todos os elementos presentes na tela são lidos. 
 
-
-<img src="(Atividades\acessibilidade_pt2.jpg">
-<img src="(Atividades\acessibilidade_pt2_1.jpg">
-
+![Atividades\acessibilidade_pt2.jpg](https://github.com/LeanDevLima/Squad02_M3/blob/main/Atividades/acessibilidade_pt2.jpg)
+![Atividades\acessibilidade_pt2_1.jpg](https://github.com/LeanDevLima/Squad02_M3/blob/main/Atividades/acessibilidade_pt2_1.jpg)
 
 </details>
 
