@@ -534,6 +534,8 @@ Zombie Bug Hunter - Jogar com bugs não rola, né? Acesse o [link](https://jogaj
 
 </details>
 
+</details>
+
 ## Integrantes da Squad:
 
 | Beatriz Souza  | [Bruno Soares](https://www.linkedin.com/in/bruno-soaresdev/)  | [Leanderson Lima](https://www.linkedin.com/in/leanderson-dias-de-lima/) | [Rebeca Borges](https://www.linkedin.com/in/rebecaborgess/) | Sara Cruz | 
