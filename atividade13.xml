@@ -1,0 +1,33 @@
+<olimpiada>
+  <informacoes_da_equipe>
+    <nome_do_lider>Carla Almeida</nome_do_lider>
+    <funcao_do_lider>Desenvolvedora Fullstack</funcao_do_lider>
+    <pais>Brasil</pais>
+    <categoria>DEV APP</categoria>
+    <quantidade_de_integrantes>5</quantidade_de_integrantes>
+    <integrantes>
+      <integrante>
+        <nome>Marcio Souza</nome>
+        <funcao>Desenvolvedor FrontEnd</funcao>
+      </integrante>
+      <integrante>
+        <nome>Camila Santana</nome>
+        <funcao>Desenvolvedora BackEnd</funcao>
+      </integrante>
+      <integrante>
+        <nome>Felipe Oliveira</nome>
+        <funcao>UX/UI Designer</funcao>
+      </integrante>
+      <integrante>
+        <nome>Caique Silva</nome>
+        <funcao>Especialista em QA</funcao>
+      </integrante>
+    </integrantes>
+  </informacoes_da_equipe>
+  <informacoes_de_contato>
+    <email_principal>carla.almeida@example.com</email_principal>
+    <email_secundario>carla@example.com</email_secundario>
+    <telefone_principal>+55 123 456 7890</telefone_principal>
+    <telefone_recado>+55 987 654 3210</telefone_recado>
+  </informacoes_de_contato>
+</olimpiada>
