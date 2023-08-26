@@ -644,6 +644,35 @@ Essas melhorias podem otimizar o desempenho, acessibilidade, práticas recomenda
 
 </details>
 
+</details>
+
+<details>
+<summary> Deixa que eu testo (Parte 4): 🌟</summary>
+<br>
+
+<details>
+<summary>🚀 Descrição da 14ª Atividade: 🌟</summary>
+<br>
+
+🔍Passo a passo para o desafio. Reunam-se em seus SQUADs. Metade dos SQUADs ta turma serão responsáveis pela estrutura XML e a outra metade pela estrutura JSON. Os SQUADs responsáveis pelo JSON devem, a partir da estrutura do formulário e das informações disponibilizadas no case, criar um arquivo na estrutura JSON. Os SQUADs responsáveis pelo XML devem, a partir da estrutura do formulário e das informações disponibilizadas no case, criar um arquivo na estrutura XML. 
+
+<img src="Atividades\atividade14.png">
+
+
+- A Squad a qual eu faço parte ficou responsápel por criar um arquivo Json, porém, com propósito de agregar conhecimento, fiz a atividade com os dois parâmetros solicitados (Json e XML). Os arquivos correspondentes estão na pasta "Atividades" deste repositório. Segue abaixo o resultado:
+
+### JSON
+<img src="Atividades\atividade14_json.png">
+
+---
+
+### XML
+
+<img src="Atividades\atividade14_xml.png">
+
+
+
+</details>
 
 
 ## Integrantes da Squad:
