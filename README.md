@@ -550,28 +550,30 @@ Zombie Bug Hunter - Jogar com bugs não rola, né? Acesse o [link](https://jogaj
 
 Para essa atividade é necessário a instalação da extensão [Lighthouse]([Atividades\LightHouse.png](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?gclid=CjwKCAjwxaanBhBQEiwA84TVXELSxabzgZxcAEpsC2w3vZ3FjxHr49SDzYp_WUybmJuwpE6KQd1bLBoCaSgQAvD_BwE)).
 
-![Lighthouse](Atividades\LightHouse.png)
+<img src="Atividades\LightHouse.png">
+
 
 E cadastro na plataforma [Bitrix](https://www.bitrix24.com.br/).
 
-![Lighthouse](Atividades\Bitrix24.png)
+<img src="Atividades\Bitrix24.png">
+
 
 Cada integrante da squad excolheu um site para execução da tarefa, o site escolhido por mim foi o site da empresa [Mutant](https://mutant.com.br/) https://mutant.com.br/.
 
 ### Abaixo segue o relatório extraído do Lighthouse. 
 
 ---
-![mutantLighthouse](Atividades\mutant_LightHouseResumo_page-0001.jpg)
+<img src="Atividades\mutant_LightHouseResumo_page-0001.jpg">
 ---
-![mutantLighthouse](Atividades\mutant_LightHouseResumo_page-0002.jpg)
+<img src="Atividades\mutant_LightHouseResumo_page-0002.jpg">
 ---
-![mutantLighthouse](Atividades\mutant_LightHouseResumo_page-0003.jpg)
+<img src="Atividades\mutant_LightHouseResumo_page-0003.jpg">
 ---
-![mutantLighthouse](Atividades\mutant_LightHouseResumo_page-0004.jpg)
+<img src="Atividades\mutant_LightHouseResumo_page-0004.jpg">
 ---
-![mutantLighthouse](Atividades\mutant_LightHouseResumo_page-0005.jpg)
+<img src="Atividades\mutant_LightHouseResumo_page-0005.jpg">
 ---
-![mutantLighthouse](Atividades\mutant_LightHouseResumo_page-0006.jpg)
+<img src="Atividades\mutant_LightHouseResumo_page-0006.jpg">
 
 ---
 
@@ -581,13 +583,13 @@ Cada integrante da squad excolheu um site para execução da tarefa, o site esco
 Aqui apresento alguns detalhes do projeto realizado pela nossa squad na plataforma Bitrix.
 
 #### Projeto:
-![](Atividades\bitrixProjetoLH.png)
+<img src="Atividades\bitrixProjetoLH.png">
 
 #### Integrantes da Squad:
-![](Atividades\bitrixSquad.png)
+<img src="Atividades\bitrixSquad.png">
 
 #### Tarefa:
-![](Atividades\bitrixMutant.png)
+<img src="Atividades\bitrixMutant.png">
  Obs: Cada membro da Squad possui sua própria tarefa designada de acordo com a seleção do site escolhido para análise.
 
 ---

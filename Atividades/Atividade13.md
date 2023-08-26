@@ -13,28 +13,30 @@ Esse [repositório](https://github.com/LeanDevLima/Squad02_M3) é dedicado às a
 
 Para essa atividade é necessário a instalação da extensão [Lighthouse]([LightHouse.png](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?gclid=CjwKCAjwxaanBhBQEiwA84TVXELSxabzgZxcAEpsC2w3vZ3FjxHr49SDzYp_WUybmJuwpE6KQd1bLBoCaSgQAvD_BwE)).
 
-![Lighthouse](LightHouse.png)
+<img src="LightHouse.png">
+
 
 E cadastro na plataforma [Bitrix](https://www.bitrix24.com.br/).
 
-![Lighthouse](Bitrix24.png)
+<img src="Bitrix24.png">
+
 
 Cada integrante da squad excolheu um site para execução da tarefa, o site escolhido por mim foi o site da empresa [Mutant](https://mutant.com.br/) https://mutant.com.br/.
 
 ### Abaixo segue o relatório extraído do Lighthouse. 
 
 ---
-![mutantLighthouse](mutant_LightHouseResumo_page-0001.jpg)
+<img src="mutant_LightHouseResumo_page-0001.jpg">
 ---
-![mutantLighthouse](mutant_LightHouseResumo_page-0002.jpg)
+<img src="mutant_LightHouseResumo_page-0002.jpg">
 ---
-![mutantLighthouse](mutant_LightHouseResumo_page-0003.jpg)
+<img src="mutant_LightHouseResumo_page-0003.jpg">
 ---
-![mutantLighthouse](mutant_LightHouseResumo_page-0004.jpg)
+<img src="mutant_LightHouseResumo_page-0004.jpg">
 ---
-![mutantLighthouse](mutant_LightHouseResumo_page-0005.jpg)
+<img src="mutant_LightHouseResumo_page-0005.jpg">
 ---
-![mutantLighthouse](mutant_LightHouseResumo_page-0006.jpg)
+<img src="mutant_LightHouseResumo_page-0006.jpg">
 
 ---
 
@@ -44,13 +46,13 @@ Cada integrante da squad excolheu um site para execução da tarefa, o site esco
 Aqui apresento alguns detalhes do projeto realizado pela nossa squad na plataforma Bitrix.
 
 #### Projeto:
-![](bitrixProjetoLH.png)
+<img src="bitrixProjetoLH.png">
 
 #### Integrantes da Squad:
-![](bitrixSquad.png)
+<img src="bitrixSquad.png">
 
 #### Tarefa:
-![](bitrixMutant.png)
+<img src="bitrixMutant.png">
  Obs: Cada membro da Squad possui sua própria tarefa designada de acordo com a seleção do site escolhido para análise.
 
 ---
