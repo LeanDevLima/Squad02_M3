@@ -909,7 +909,7 @@ pm.test("Status code is 201", function () {
 ```
 
 Como eu sei onde o código de resposta é 200 ou 201? 
-Os códigos de respostas HHTP seguem sempre o mesmo padrão, você pode encontrar vários exemplos aqui: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+Os códigos de respostas HTTP seguem sempre o mesmo padrão, você pode encontrar vários exemplos aqui: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
 Abaixo são os que foram mais usados nessa atividade:
  
