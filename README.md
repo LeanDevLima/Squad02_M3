@@ -695,7 +695,7 @@ Essas melhorias podem otimizar o desempenho, acessibilidade, práticas recomenda
 
 ### Preparando o Postman:
 
-Anteriormente, busquei explicar de maneira didática. Nesta seção bônus, irei demonstrar a execução da atividade, além de compartilhar alguns atalhos que simplificaram o processo:
+Nesta seção irei demonstrar a execução da atividade, além de compartilhar alguns atalhos que simplificaram o processo:
 
 1. Criação das requisições (GET, POST, PUT, PATCH, DELETE)
  
